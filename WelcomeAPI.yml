@@ -1,14 +1,1 @@
-spring:
-  application:
-    name: WelcomeAPI
-  boot:
-    admin:
-      client:
-        url: http://localhost:707
 
-
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
